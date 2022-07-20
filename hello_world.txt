@@ -1,2 +1,2 @@
 Hello Odin!
-I am testing the message function in vsCode.
+I am testing the message function in vsCode. Add more line 2.
